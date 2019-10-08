@@ -1,8 +1,3 @@
-# Warm up Exercise
+# Html & Css
 
-Create an index.html file that looks like this:
-
-![terminator](ScreenShot.jpg)
-
-
-_help can be found here: https://www.w3schools.com/html/html_basic.asp_
+Material 9-10-2019
